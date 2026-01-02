@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="ru">
     <head>
-        <title>Hosting-Minecraft</title>
+        <title>SporLods - TEST </title>
 
         
             <meta charset="utf-8">
@@ -23,7 +23,7 @@
                     window.PterodactylUser = {"uuid":"6bb47a8f-daf3-4b70-9e3e-9a841315b522","username":"al2uofck","email":"sporlod@gmail.com","name_first":"IRONNN","name_last":"IRONNN","language":"en","root_admin":false,"staff":0,"use_totp":false,"gravatar":true,"created_at":"2025-12-15T11:01:27.000000Z","updated_at":"2025-12-15T11:15:46.000000Z","whmcs_user_token":"20633fb9-bffe-419e-91d4-e83782e53e15","plain_sftp_password":"}9[)3Y](2p","free_server_count":0};
                 </script>
                                         <script>
-                    window.SiteConfiguration = {"name":"Hosting-Minecraft","locale":"en","assistant":{"limit":"30000","openai_model":"gpt-4.1-mini"},"recaptcha":{"enabled":true,"siteKey":"6Lc-RqQcAAAAAJTk3UDgUntow24ERv2Hpf7gAy5U"}};
+                    window.SiteConfiguration = {"name":"SporLods - test","locale":"en","assistant":{"limit":"30000","openai_model":"gpt-4.1-mini"},"recaptcha":{"enabled":true,"siteKey":"6Lc-RqQcAAAAAJTk3UDgUntow24ERv2Hpf7gAy5U"}};
                 </script>
                             <style>
             @import url('//fonts.googleapis.com/css?family=Rubik:300,400,500&display=swap');
